@@ -6,7 +6,7 @@ This project fulfills the requirements for the JavaScript Programming - D280 ass
 
 ## Features
 
-**Interactive SVG Map:** Highlights countries on hover and selection.
+**Interactive SVG Map:** Highlights countries on hover.
 
 **World Bank API Integration:** Displays country name, capital city, region, income level, and additional data.
 
