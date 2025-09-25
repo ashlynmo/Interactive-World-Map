@@ -2,8 +2,6 @@
 
 This project is an Angular web application that displays an interactive SVG world map and shows real-time country data from the World Bank API. The map highlights countries on hover and displays key information in a side panel when selected.
 
-This project fulfills the requirements for the JavaScript Programming - D280 assessment.
-
 ## Features
 
 **Interactive SVG Map:** Highlights countries on hover.
