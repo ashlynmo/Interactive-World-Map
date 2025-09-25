@@ -1,0 +1,27 @@
+section 
+{
+  padding-top: 80px;
+}
+
+.column 
+{
+  float: left;
+  padding: 40px;
+}
+  
+.left 
+{
+  width: 70%;
+}
+
+path
+{
+  fill: #cfc9bc;
+  stroke: #919191;
+}
+
+path:hover 
+{
+  fill: #99c2a0;
+  cursor: pointer;
+}

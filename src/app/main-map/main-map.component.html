@@ -1,0 +1,26 @@
+<header>
+
+    <img src="/assets/map-header (1).png" alt="World Bank World Map" width="500px" height="150px">
+
+    <nav> 
+        <a href="https://www.worldbank.org/ext/en/home">Visit the World Bank</a>
+    </nav>
+
+</header>
+<hr>
+
+<section class="mapContainer">
+
+    <app-map-svg (countryHovered)="onCountryHovered($event)"></app-map-svg>
+    
+    <app-country-info 
+    [countryCode]="hoveredCountryCode"
+    [countryName]="countryName"
+    [countryCapital]="countryCapital"
+    [countryRegion]="countryRegion"
+    [countryIncomeLevel]="countryIncomeLevel"
+    [countryLongitude]="countryLongitude"
+    [countryLatitude]="countryLatitude"
+    ></app-country-info>
+    
+</section>
