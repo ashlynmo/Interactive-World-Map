@@ -30,6 +30,13 @@ World Bank API
 
 SVG Graphic
 
+## Project Screenshots
+<img src="https://github.com/ashlynmo/Interactive-World-Map/blob/main/Screenshots/World%20Map.png" alt="World Map">
+
+**Example of Selected Country & Info from API:**
+
+<img src="https://github.com/ashlynmo/Interactive-World-Map/blob/main/Screenshots/World%20Map%20-%20Country%20Selected.png" alt="World Map Country Selected">
+
 ## Project Requirements
 Throughout your career in software engineering, you will be asked to enhance website functionality using JavaScript programming in conjunction with existing frameworks, assets, and web content. For this assessment, you will enhance a website using the Angular JavaScript framework and an application programming interface (API) by creating a visual interface for a scalable vector graphics (SVG) map.
 
