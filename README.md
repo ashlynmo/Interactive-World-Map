@@ -20,7 +20,7 @@ This project fulfills the requirements for the JavaScript Programming - D280 ass
 
 ## Technologies Used
 
-Angular: 19.2.0
+Angular: 20.3.2
 
 TypeScript
 
