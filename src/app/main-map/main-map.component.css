@@ -25,3 +25,9 @@ nav a
 {
     color:rgb(131, 189, 155);
 }
+
+hr
+{
+    border: 1px solid #7fafb8;
+    height: 1.5px;
+}
