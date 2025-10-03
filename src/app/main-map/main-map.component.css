@@ -1,19 +1,16 @@
-header 
-{
+header {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #869ea0;
     padding: 20px;
     display: flex;
 }
 
-img 
-{
+img {
     height: 175px;
     width: 550px;
 }
 
-nav 
-{
+nav {
     font-size: 1em;
     display: flex;
     margin-top: auto;
@@ -21,13 +18,11 @@ nav
     padding-right: 50px;
 }
 
-nav a 
-{
+nav a {
     color:rgb(131, 189, 155);
 }
 
-hr
-{
+hr {
     border: 1px solid #7fafb8;
     height: 1.5px;
 }

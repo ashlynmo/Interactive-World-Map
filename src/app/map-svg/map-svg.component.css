@@ -1,27 +1,22 @@
-section 
-{
+section {
   padding-top: 80px;
 }
 
-.column 
-{
+.column {
   float: left;
   padding: 40px;
 }
   
-.left 
-{
+.left {
   width: 70%;
 }
 
-path
-{
+path {
   fill: #c0bdb7;
   stroke: #919191;
 }
 
-path:hover 
-{
+path:hover {
   fill: #99c2a0;
   cursor: pointer;
 }
