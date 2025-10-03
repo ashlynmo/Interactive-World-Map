@@ -2,7 +2,7 @@ header
 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #869ea0;
-    padding-bottom: 20px;
+    padding: 20px;
     display: flex;
 }
 
