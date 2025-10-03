@@ -4,17 +4,17 @@ This project is an Angular web application that displays an interactive SVG worl
 
 ## Features
 
-**Interactive SVG Map:** Highlights countries on hover.
+**Interactive SVG Map:** Highlights countries on hover
 
-**World Bank API Integration:** Displays country name, capital city, region, income level, and additional data.
+**World Bank API Integration:** Displays country name, capital city, region, income level, and additional data
 
-**Angular Routing:** Default route redirects to /map.
+**Angular Routing:** Default route redirects to /map
 
-**Two-Column Layout:** Map on the left, country data on the right.
+**Two-Column Layout:** Map on the left, country data on the right
 
-**Reusable Angular Components:** Clean separation of logic and UI.
+**Reusable Angular Components:** Clean separation of logic and UI
 
-**HTTPClient Service:** Handles API calls and data retrieval efficiently.
+**HTTPClient Service:** Handles API calls and data retrieval efficiently
 
 ## Technologies Used
 
