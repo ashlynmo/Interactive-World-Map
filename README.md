@@ -2,21 +2,19 @@
 
 This project is an Angular web application that displays an interactive SVG world map and shows real-time country data from the World Bank API. The map highlights countries on hover and displays key information in a side panel when selected. Completed as part of my coursework for the WGU Bachelors of Science in Software Engineering.
 
-**Live Demo:** <a href="https://worldbankmap.netlify.app/map">World Bank Map</a>
-
 ## Features
 
-**Interactive SVG Map:** Highlights countries on hover.
+**Interactive SVG Map:** Highlights countries on hover
 
-**World Bank API Integration:** Displays country name, capital city, region, income level, and additional data.
+**World Bank API Integration:** Displays country name, capital city, region, income level, and additional data
 
-**Angular Routing:** Default route redirects to /map.
+**Angular Routing:** Default route redirects to /map
 
-**Two-Column Layout:** Map on the left, country data on the right.
+**Two-Column Layout:** Map on the left, country data on the right
 
-**Reusable Angular Components:** Clean separation of logic and UI.
+**Reusable Angular Components:** Clean separation of logic and UI
 
-**HTTPClient Service:** Handles API calls and data retrieval efficiently.
+**HTTPClient Service:** Handles API calls and data retrieval efficiently
 
 ## Technologies Used
 
